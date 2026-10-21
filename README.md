@@ -17,7 +17,7 @@ Things that mattered:
 - Results are compared with a "do nothing" baseline (grayscale), not just shown as pictures.
 
 ## Results
-
+ 
 Scores on the 10,000 CIFAR-10 test images:
 
 | Metric | Grayscale baseline | U-Net |

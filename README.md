@@ -57,3 +57,4 @@ Or open the notebook in Google Colab and switch the runtime to a GPU. The datase
 - Bigger images and a larger dataset
 - GAN or perceptual loss for more vivid colors
 - Predict colors as classes instead of regression
+

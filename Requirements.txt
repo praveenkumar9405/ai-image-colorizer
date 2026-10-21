@@ -1,0 +1,7 @@
+torch
+datasets
+numpy
+matplotlib
+scikit-image
+jupyter
+ 
